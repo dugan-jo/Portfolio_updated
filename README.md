@@ -133,4 +133,5 @@ Your resume should include:
 Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
 
 ---
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+© 2022 Trilogy <img width="370" alt="Screen Shot 2022-03-02 at 4 36 05 PM" src="https://user-images.githubusercontent.com/75266984/156624898-b5503f3e-79d2-4861-8c70-5cd38f0b9c2d.png">
+Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
